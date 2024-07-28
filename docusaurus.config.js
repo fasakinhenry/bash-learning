@@ -9,7 +9,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Know Bash',
-  tagline: 'Learn Bash with Ease',
+  tagline: 'Master Bash with ease using knowbash – learn, code, and write shell scripts effortlessly.',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
