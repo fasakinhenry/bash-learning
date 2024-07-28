@@ -49,8 +49,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/fasakinhenry/bash-learning',
+          editUrl: 'https://github.com/fasakinhenry/bash-learning',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -68,7 +67,7 @@ const config = {
         title: 'KnowBash',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.png',
+          src: 'img/logo2.png',
         },
         items: [
           {

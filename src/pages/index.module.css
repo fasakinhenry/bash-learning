@@ -8,10 +8,15 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url('/img/grid-light.svg');
+}
+
+html[data-theme='dark'] .heroBanner {
+  background-image: url('/img/grid-dark.svg');
 }
 
 /* index.module.css */
-.heroBanner {
+/* .heroBanner {
   background: linear-gradient(
     90deg,
     rgba(58, 141, 255, 1) 0%,
@@ -58,7 +63,7 @@
 .featureCard img {
   max-width: 100px;
   margin-bottom: 1rem;
-}
+} */
 
 @media screen and (max-width: 996px) {
   .heroBanner {
