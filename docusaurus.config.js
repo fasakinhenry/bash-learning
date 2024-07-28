@@ -79,7 +79,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/fasakinhenry/bash-learning',
             label: 'GitHub',
             position: 'right',
           },
@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://stackoverflow.com/questions/tagged/bash',
               },
               {
                 label: 'Discord',
@@ -110,7 +110,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/henqsoft',
               },
             ],
           },
