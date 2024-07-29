@@ -1,0 +1,23 @@
+.typing-effect {
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 1.5rem;
+  display: inline-block;
+  border-right: 0.15em solid #fff; /* Adjust cursor color as needed */
+  animation: blink 0.75s step-start infinite;
+}
+
+.cursor {
+  display: inline;
+  animation: blink 0.75s step-start infinite;
+}
+
+@keyframes blink {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #fff; /* Adjust cursor color as needed */
+  }
+}

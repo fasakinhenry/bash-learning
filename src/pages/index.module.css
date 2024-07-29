@@ -66,6 +66,17 @@ html[data-theme='dark'] .heroBanner {
   margin-bottom: 1rem;
 } */
 
+/* index.module.css or another CSS file */
+.terminal-tagline {
+  margin-top: 20px;
+}
+
+.typed-text {
+  font-family: monospace;
+  color: #fff;
+}
+
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
