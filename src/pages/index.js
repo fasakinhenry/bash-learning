@@ -7,7 +7,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 // For react typing animation
-import TypingEffect from '/src/components/TypingEffect'
+import TypingEffect from '/src/components/TypingEffect';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -21,10 +21,21 @@ function HomepageHeader() {
         <p className='hero__subtitle'>{siteConfig.tagline}</p>
         <TypingEffect
           textArray={[
-            'Innovating the Future...',
-            'Empowering Technology...',
-            'Redefining Possibilities...',
-            'Pushing Boundaries...'
+            'Bash the Learning Curve...',
+            'Shell Out Your Potential...',
+            'Command Line, Mastered...',
+            'Script Your Success...',
+            'Elevate Your Terminal Game...',
+            'From Bash Novice to Pro...',
+            'Unlock the Power of Bash...',
+            'Your Bash Journey Starts Here...',
+            'KnowBash: Where Confusion Ends...',
+            'Level Up Your Bash Skills...',
+            'Bash Basics to Beyond...',
+            'Navigate the Shell Like a Pro...',
+            'Embrace the Command Line...',
+            'Bash: Learn, Apply, Succeed...',
+            'Transform Your Workflow with Bash...',
           ]}
         />
         <div className={styles.buttons}>

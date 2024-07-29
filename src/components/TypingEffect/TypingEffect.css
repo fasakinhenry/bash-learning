@@ -1,23 +1,31 @@
 .typing-effect {
-  white-space: nowrap;
-  overflow: hidden;
-  font-size: 1.5rem;
+  font-size: 1.5em;
   display: inline-block;
-  border-right: 0.15em solid #fff; /* Adjust cursor color as needed */
-  animation: blink 0.75s step-start infinite;
+  margin-bottom: 1em;
 }
 
 .cursor {
-  display: inline;
-  animation: blink 0.75s step-start infinite;
+  display: inline-block;
+  width: 0.6em;
+  height: 1.2em;
+  background-color: #1b1b1d; /* or any color you prefer */
+  margin-left: 2px;
+  animation: blink 0.7s infinite;
+  vertical-align: text-bottom;
+}
+
+html[data-theme='dark'] .cursor {
+    background-color: #fff;
 }
 
 @keyframes blink {
-  from,
-  to {
-    border-color: transparent;
+  0% {
+    opacity: 0;
   }
   50% {
-    border-color: #fff; /* Adjust cursor color as needed */
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
   }
 }

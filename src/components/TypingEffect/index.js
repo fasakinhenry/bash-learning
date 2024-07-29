@@ -59,7 +59,7 @@ const TypingEffect = ({
   return (
     <div className='typing-effect'>
       {displayedText}
-      <span className='cursor'>|</span>
+      <span className='cursor'></span>
     </div>
   );
 };
