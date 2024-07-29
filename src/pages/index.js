@@ -43,7 +43,7 @@ function HomepageHeader() {
             className='button button--secondary button--lg'
             to='/docs/intro'
           >
-            Docusaurus Tutorial - 5min ⏱️
+            Know bash now - 2 weeks or less ⏱️
           </Link>
         </div>
       </div>
