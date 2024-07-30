@@ -36,7 +36,10 @@ function HomepageHeader() {
             'Tired of Bashing, Knowbash it...',
             'Level Up Your Bash Skills...',
             'Bash Basics to Beyond...',
-            'enjoy the Bash learning Hub...',
+            'Bash beyond belief...',
+            'Enjoy the Bash learning Hub...',
+            'Become bashfully brilliant...',
+            'Bashing is really a good skill :)...',
             'Navigate the Shell Like a Pro...',
             'Embrace the Command Line...',
             'Bash: Learn, Apply, Succeed...',
@@ -46,6 +49,7 @@ function HomepageHeader() {
             'Your Bash Learning Shortcut...',
             'Bash Brilliance Begins Here...',
             'Bash the limits, Learn more...',
+            'Can you really bash without Bashing?..'
           ]}
         />
         <div className={styles.buttons}>
