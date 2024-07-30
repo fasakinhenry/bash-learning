@@ -47,3 +47,6 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - [13 resources for learning to write better Bash code](https://www.redhat.com/sysadmin/learn-bash-scripting)
 - [Nice Bash GitHub Bookmarks](https://github.com/atid1024/bookmarks/blob/master/bash.md)
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+- [GNU Bash Manual](https://www.gnu.org/software/bash/manual/)
+- [The Grymoire - home for UNIX wizards](https://www.grymoire.com/Unix/)
+- [Advanced bash Scripting Guide PDF](https://tldp.org/LDP/abs/abs-guide.pdf)
