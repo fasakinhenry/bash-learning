@@ -39,3 +39,8 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+# Important Resources for Bash
+
+- [Freecodecamp Bash Scripting Tutorial by Zaira Hira](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
+- [All the awesome book for Learning Bash on RIP tutorial](https://riptutorial.com/bash/awesome-learning/book)
