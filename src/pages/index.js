@@ -36,6 +36,7 @@ function HomepageHeader() {
             'Tired of Bashing, Knowbash it...',
             'Level Up Your Bash Skills...',
             'Bash Basics to Beyond...',
+            'enjoy the Bash learning Hub...',
             'Navigate the Shell Like a Pro...',
             'Embrace the Command Line...',
             'Bash: Learn, Apply, Succeed...',
