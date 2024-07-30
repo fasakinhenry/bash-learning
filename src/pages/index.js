@@ -41,6 +41,10 @@ function HomepageHeader() {
             'Embrace the Command Line...',
             'Bash: Learn, Apply, Succeed...',
             'Transform Your Workflow with Bash...',
+            'Bash Mastery Unlocked...',
+            'Learn Bash, Rule the Shell...',
+            'Your Bash Learning Shortcut...',
+            'Bash Brilliance Begins Here...',
           ]}
         />
         <div className={styles.buttons}>
