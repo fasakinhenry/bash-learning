@@ -44,3 +44,6 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 - [Freecodecamp Bash Scripting Tutorial by Zaira Hira](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 - [All the awesome book for Learning Bash on RIP tutorial](https://riptutorial.com/bash/awesome-learning/book)
+- [13 resources for learning to write better Bash code](https://www.redhat.com/sysadmin/learn-bash-scripting)
+- [Nice Bash GitHub Bookmarks](https://github.com/atid1024/bookmarks/blob/master/bash.md)
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
