@@ -45,6 +45,7 @@ function HomepageHeader() {
             'Learn Bash, Rule the Shell...',
             'Your Bash Learning Shortcut...',
             'Bash Brilliance Begins Here...',
+            'Bash the limits, Learn more...',
           ]}
         />
         <div className={styles.buttons}>
