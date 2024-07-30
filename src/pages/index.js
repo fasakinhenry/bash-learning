@@ -23,7 +23,7 @@ function HomepageHeader() {
           textArray={[
             'Bash the Learning Curve...',
             'Shell Out Your Potential...',
-            'Shell Out and learn bash',
+            'Shell Out and learn bash...',
             'Ditch the bashing, learn with knowbash...',
             'Command Line, Mastered...',
             'Script Your Success...',
@@ -39,7 +39,7 @@ function HomepageHeader() {
             'Bash beyond belief...',
             'Enjoy the Bash learning Hub...',
             'Become bashfully brilliant...',
-            'Bashing is really a good skill :)...',
+            'Bashing is really a good skill ;)...',
             'Navigate the Shell Like a Pro...',
             'Embrace the Command Line...',
             'Bash: Learn, Apply, Succeed...',
