@@ -50,3 +50,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - [GNU Bash Manual](https://www.gnu.org/software/bash/manual/)
 - [The Grymoire - home for UNIX wizards](https://www.grymoire.com/Unix/)
 - [Advanced bash Scripting Guide PDF](https://tldp.org/LDP/abs/abs-guide.pdf)
+- [Great Bash track or Course @exercism Org](exercism.org)
