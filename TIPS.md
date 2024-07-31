@@ -16,8 +16,8 @@
 > - lwp request
 > - Cron or just a for loop
 > - How to make a program executable
-> - How to execute from bashrc `[By 84nt1m on Reddit](https://www.reddit.com/user/84nt1m/)
+> - How to execute from bashrc `[By 84nt1m on Reddit](https://www.reddit.com/user/84nt1m/)`
 
 ## Tip 2
 
-
+> Coursera has a good intro course from IBM on an intro to bash scripting/Linux command line interface. The codeacademy one was great bach when i was learning bash. 
