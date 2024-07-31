@@ -21,4 +21,11 @@
 ## Tip 2
 
 > [!TIP]
-> Coursera has a good intro course from IBM on an intro to bash scripting/Linux command line interface. The codeacademy one was great bach when i was learning bash. 
+> Coursera has a good intro course from IBM on an intro to bash scripting/Linux command line interface. The codeacademy one was great bach when i was learning bash. I took Datacamp courses on Bash scripting and it was a good ride.
+
+## Tip 3
+
+> [!TIP]
+> Bash is quirky and has some odd syntax at times. Then there’s confusion about what’s a shell built-in, versus a separate command/software.
+>
+> I HIGHLY recommend [shellcheck](https://www.shellcheck.net/), which is a linter with plugins for most editors. You will learn SO MUCH about how to write bash from using this tool. [By Koprulu_Sector](https://www.reddit.com/user/koprulu_sector/)
