@@ -16,3 +16,4 @@ Welcome to KnowBash, your ultimate guide for learning bash
 - [Ryanstutorial simple Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 - [Bash Guide Academy](https://guide.bash.academy/)
 - [Best Bash Guide](https://mywiki.wooledge.org/BashGuide)
+- [Bash notes for professionals](https://goalkicker.com/BashBook/)
