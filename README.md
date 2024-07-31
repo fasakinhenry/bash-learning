@@ -53,3 +53,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 - [Great Bash track or Course @exercism Org](exercism.org)
 - [Ryanstutorial simple Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 - [Bash Guide Academy](https://guide.bash.academy/)
+- [Best Bash Guide](https://mywiki.wooledge.org/BashGuide)
