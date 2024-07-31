@@ -20,4 +20,5 @@
 
 ## Tip 2
 
+> [!TIP]
 > Coursera has a good intro course from IBM on an intro to bash scripting/Linux command line interface. The codeacademy one was great bach when i was learning bash. 
