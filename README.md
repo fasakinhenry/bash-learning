@@ -17,6 +17,8 @@ Welcome to KnowBash, your ultimate guide for learning bash
 - [Bash Guide Academy](https://guide.bash.academy/)
 - [Best Bash Guide](https://mywiki.wooledge.org/BashGuide)
 - [Bash notes for professionals](https://goalkicker.com/BashBook/)
+- [Overview of bash in minutes](https://learnxinyminutes.com/docs/bash/)
+- [Learning Bash counterpart- batch/cmd for windows YT playlist](https://www.youtube.com/watch?v=kboexp3QiUg)
 
 ## Great Paid/Free courses to learn Bash
 

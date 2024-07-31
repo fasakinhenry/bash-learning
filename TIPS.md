@@ -1,5 +1,7 @@
 # Tips for Learning Bash successfully
 
+## Tip 1
+
 > [!TIP]
 > Most programming languages have same structures.
 > Go to any bash page and learn this:
@@ -14,4 +16,8 @@
 > - lwp request
 > - Cron or just a for loop
 > - How to make a program executable
-> - How to execute from bashrc
+> - How to execute from bashrc `[By 84nt1m on Reddit](https://www.reddit.com/user/84nt1m/)
+
+## Tip 2
+
+
