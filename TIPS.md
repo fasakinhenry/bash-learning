@@ -2,7 +2,7 @@
 
 > [!TIP]
 > Most programming languages have same structures.
-
+>
 > Go to any bash page and learn this:
 > 
 > User defined and system variables
