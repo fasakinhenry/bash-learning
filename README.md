@@ -19,6 +19,8 @@ Welcome to KnowBash, your ultimate guide for learning bash
 - [Bash notes for professionals](https://goalkicker.com/BashBook/)
 - [Overview of bash in minutes](https://learnxinyminutes.com/docs/bash/)
 - [Learning Bash counterpart- batch/cmd for windows YT playlist](https://www.youtube.com/watch?v=kboexp3QiUg)
+- [Bash Scripting basic YT playlist by Jason Wertz](https://www.youtube.com/watch?v=NSu4IWlOU7k)
+- [Bash Handbook by denysdovhan on GitHub](https://github.com/denysdovhan/bash-handbook)
 
 ## Great Paid/Free courses to learn Bash
 
