@@ -1,46 +1,8 @@
-# Website
+# KnowBash
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to KnowBash, your ultimate guide for learning bash
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
-# Important Resources for Bash
+## Important Resources for Bash
 
 - [Freecodecamp Bash Scripting Tutorial by Zaira Hira](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 - [All the awesome book for Learning Bash on RIP tutorial](https://riptutorial.com/bash/awesome-learning/book)
