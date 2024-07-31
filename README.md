@@ -17,3 +17,12 @@ Welcome to KnowBash, your ultimate guide for learning bash
 - [Bash Guide Academy](https://guide.bash.academy/)
 - [Best Bash Guide](https://mywiki.wooledge.org/BashGuide)
 - [Bash notes for professionals](https://goalkicker.com/BashBook/)
+
+## Great Paid/Free courses to learn Bash
+
+If you are someone who needs to learn with courses. I have cuated some nice courses to get you started with Bash.
+
+- [Network Chuck Bash Scripting](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS) *not recommended*
+- 
+
+For more tips, check out the Tips README file [here](/TIPS.md)
