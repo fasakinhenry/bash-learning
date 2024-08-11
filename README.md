@@ -27,6 +27,6 @@ Welcome to KnowBash, your ultimate guide for learning bash
 If you are someone who needs to learn with courses. I have cuated some nice courses to get you started with Bash.
 
 - [Network Chuck Bash Scripting](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS) *not recommended*
-- 
+- [FreeCodeCamp's hands on tutorial](https://www.freecodecamp.org/learn/relational-database/learn-bash-scripting-by-building-five-programs/build-five-programs)
 
 For more tips, check out the Tips README file [here](/TIPS.md)
