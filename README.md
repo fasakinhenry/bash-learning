@@ -29,4 +29,8 @@ If you are someone who needs to learn with courses. I have cuated some nice cour
 - [Network Chuck Bash Scripting](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS) *not recommended*
 - [FreeCodeCamp's hands on tutorial](https://www.freecodecamp.org/learn/relational-database/learn-bash-scripting-by-building-five-programs/build-five-programs)
 
+## Nice subreddits links
+
+- [Good websites with tasks except Codewars to practice using bash](https://www.reddit.com/r/bash/comments/xz8gpi/what_are_some_good_websites_with_tasks_except/)
+
 For more tips, check out the Tips README file [here](/TIPS.md)
